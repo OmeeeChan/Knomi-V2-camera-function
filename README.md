@@ -1,1 +1,1 @@
-//firmware.bin is readily bootloadable in knomi v2 webapp
+# KNOMI1 and 2
